@@ -19,3 +19,10 @@ This is a basic Library Management System implemented in Python. The system prov
 
 - **Borrow books:** Allow users to borrow books. Check if the requested book is available.
 - **Return books:** An option for users to return the borrowed books.
+
+## Usage
+
+- Clone the repository:
+
+```bash
+git clone https://github.com/prince08102002/library-management-system.git
