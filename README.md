@@ -25,4 +25,4 @@ This is a basic Library Management System implemented in Python. The system prov
 - Clone the repository:
 
 ```bash
-git clone https://github.com/prince08102002/library-management-system.git
+git clone https://github.com/prince08102002/Library-Management-System-Python.git
